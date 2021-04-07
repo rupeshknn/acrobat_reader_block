@@ -26,4 +26,4 @@ step7:
 execute "./adober.ps1" in powershell
 
 ------------------------------------------------------------------------
-I have left a sample blocklist which is from my PC for reference
+there is also a sample blocklist which is from my PC.
