@@ -1,9 +1,9 @@
 # acrobat_reader_block
 ## Block Adobe Acrobat Pro from accessing the internet using py and ps.
-------------------------------------------------------------------
-## Note : I am assuming you already have python installed and know how to run python scripts
-------------------------------------------------------------------
+Note : I am assuming you already have python installed and know how to run python scripts
 
+# Instructions
+------------------------------------------------------------------------
 step1: 
 open adober.py in notepad and verify the adobe install directories
 
@@ -25,5 +25,5 @@ execute "Set-ExecutionPolicy -RemoteSigned" followed by "A" (Yes to all)
 step7:
 execute "./adober.ps1" in powershell
 
------------------------------------------------------------
+------------------------------------------------------------------------
 I have left a sample blocklist which is from my PC for reference
