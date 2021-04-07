@@ -1,0 +1,101 @@
+C:\Windows\Installer\$PatchCache$\Managed\68AB67CA3301FFFF7706C0F070E41400\15.7.20033\Acrobat_Elements.exe
+C:\Windows\Installer\$PatchCache$\Managed\68AB67CA3301FFFF7706C0F070E41400\15.7.20033\acrobat_sl.exe
+C:\Windows\Installer\$PatchCache$\Managed\68AB67CA3301FFFF7706C0F070E41400\15.7.20033\acrobroker.exe
+C:\Windows\Installer\$PatchCache$\Managed\68AB67CA3301FFFF7706C0F070E41400\15.7.20033\acrocef.exe
+C:\Windows\Installer\$PatchCache$\Managed\68AB67CA3301FFFF7706C0F070E41400\15.7.20033\acrord32.exe
+C:\Windows\Installer\$PatchCache$\Managed\68AB67CA3301FFFF7706C0F070E41400\15.7.20033\acroscanbroker.exe
+C:\Windows\Installer\$PatchCache$\Managed\68AB67CA3301FFFF7706C0F070E41400\15.7.20033\acroservicesupdater.exe
+C:\Windows\Installer\$PatchCache$\Managed\68AB67CA3301FFFF7706C0F070E41400\15.7.20033\acrotextextractor.exe
+C:\Windows\Installer\$PatchCache$\Managed\68AB67CA3301FFFF7706C0F070E41400\15.7.20033\adelrcp.exe
+C:\Windows\Installer\$PatchCache$\Managed\68AB67CA3301FFFF7706C0F070E41400\15.7.20033\AdobeCollabSync.exe
+C:\Windows\Installer\$PatchCache$\Managed\68AB67CA3301FFFF7706C0F070E41400\15.7.20033\Dist_acrodist.exe
+C:\Windows\Installer\$PatchCache$\Managed\68AB67CA3301FFFF7706C0F070E41400\15.7.20033\Dist_acrotray.exe
+C:\Windows\Installer\$PatchCache$\Managed\68AB67CA3301FFFF7706C0F070E41400\15.7.20033\Exch_Acrobat.exe
+C:\Windows\Installer\$PatchCache$\Managed\68AB67CA3301FFFF7706C0F070E41400\15.7.20033\Exch_AcrobatInfo.exe
+C:\Windows\Installer\$PatchCache$\Managed\68AB67CA3301FFFF7706C0F070E41400\15.7.20033\html2pdfwrapfor64bit.exe
+C:\Windows\Installer\$PatchCache$\Managed\68AB67CA3301FFFF7706C0F070E41400\15.7.20033\logtransport2.exe
+C:\Windows\Installer\$PatchCache$\Managed\68AB67CA3301FFFF7706C0F070E41400\15.7.20033\PrintInf64.exe
+C:\Windows\Installer\$PatchCache$\Managed\68AB67CA3301FFFF7706C0F070E41400\15.7.20033\wow_helper.exe
+C:\Windows\Installer\$PatchCache$\Managed\68AB67CA3301FFFF7706C0F070E41400\15.7.20033\_4bitmapibroker.exe
+C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\Acrobat.exe
+C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\AcrobatInfo.exe
+C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\acrobat_sl.exe
+C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\AcroBroker.exe
+C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\acrodist.exe
+C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\AcroRd32.exe
+C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\AcroTextExtractor.exe
+C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\acrotray.exe
+C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\ADelRCP.exe
+C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\AdobeCollabSync.exe
+C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\arh.exe
+C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\CRLogTransport.exe
+C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\CRWindowsClientService.exe
+C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\FullTrustNotifier.exe
+C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\LogTransport2.exe
+C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\ShowAppPickerForPDF.exe
+C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\wow_helper.exe
+C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\AcroCEF\AcroCEF.exe
+C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\AcroCEF\AcroServicesUpdater.exe
+C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\AcroLayoutRecognizer\AcroLayoutRecognizer.exe
+C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\Browser\WCChromeExtn\WCChromeNativeMessagingHost.exe
+C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\plug_ins\pi_brokers\32BitMAPIBroker.exe
+C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\plug_ins\pi_brokers\64BitMAPIBroker.exe
+C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\plug_ins\Preflight\UnpackTool\7za.exe
+C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\plug_ins\Scan\AcroScanBroker.exe
+C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\Xtras\AdobePDF\PrintInf64.exe
+C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat Elements\Acrobat Elements.exe
+C:\Program Files (x86)\Adobe\Acrobat DC\PDFMaker\Office\HTML2PDFWrapFor64Bit.exe
+C:\Program Files (x86)\Adobe\Acrobat DC\Setup Files\{AC76BA86-1033-FFFF-7760-0C0F074E4100}\Setup.exe
+C:\Program Files (x86)\Adobe\Acrobat DC\Setup Files\{AC76BA86-1033-FFFF-7760-0C0F074E4100}\WindowsInstaller-KB893803-v2-x86.exe
+C:\Program Files (x86)\Common Files\Adobe\AdobeApplicationManager\AAMSetup\Set-up.exe
+C:\Program Files (x86)\Common Files\Adobe\AdobeGCClient\Adobe Genuine Launcher.exe
+C:\Program Files (x86)\Common Files\Adobe\AdobeGCClient\AdobeGCClient.exe
+C:\Program Files (x86)\Common Files\Adobe\AdobeGCClient\AGCInvokerUtility.exe
+C:\Program Files (x86)\Common Files\Adobe\AdobeGCClient\AGMService.exe
+C:\Program Files (x86)\Common Files\Adobe\AdobeGCClient\agshelper.exe
+C:\Program Files (x86)\Common Files\Adobe\AdobeGCClient\AGSService.exe
+C:\Program Files (x86)\Common Files\Adobe\AdobeGCClient\HDHelper.exe
+C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\AdobeARM.exe
+C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\AdobeARMHelper.exe
+C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\armsvc.exe
+C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\Temp\10649263\AdobeARMHelper.exe
+C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\Temp\754306644\AdobeARMHelper.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\AdobeGCClient\AGSService.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\AdobeGCClient\customhook\gccustomhook.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\CCM\tools\7za.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\CCM\Utilities\AAMHelper.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\CCM\Utilities\AdobeApplicationManager(URIHandler).exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\CCM\Utilities\AdobeApplicationManager.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\core\AAMCustomHook.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\core\AAMLauncherUtil.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\core\PDapp.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\D6\Setup.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\D6\TokenGenerator64.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\DECore\PlatformUtil.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\DECore\Setup.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\DECore\DE5\resources\libraries\Adobe_Helperx32.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\DECore\DE5\resources\libraries\Adobe_Helperx64.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\DECore\DE5\resources\libraries\CustomHook_Helperx64.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\DECore\DE5\resources\libraries\TokenResolverx64.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\DECore\DE6\resources\libraries\Adobe_Helperx32.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\DECore\DE6\resources\libraries\Adobe_Helperx64.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\DECore\DE6\resources\libraries\CustomHook_Helperx64.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\DECore\DE6\resources\libraries\TokenResolverx64.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\DWA\Setup.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\DWA\TokenGenerator64.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\IPC\AdobeIPCBroker.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\IPC\customhook\AdobeIPCBrokerCustomHook.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\LWA\AAM Registration Notifier.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\LWA\adobe_licutil.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\AAM Registration Notifier.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P6\adobe_licutil.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P7\AASIapp.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P7\adobe_licensing_helper.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P7\adobe_lichelper.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\P7\adobe_licutil.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAMLauncher.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\Adobe Application Manager (Updater).exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\LogTransport2.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\updatercorehelper.exe
+C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\updaterstartuputility.exe
