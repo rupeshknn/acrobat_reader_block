@@ -17,7 +17,7 @@ step5:
 open powershell with administrator access
 
 step6:
-execute "Set-ExecutionPolicy -RemoteSigned" followed by "A" (Yes to all)
+execute "Set-ExecutionPolicy -ExecutionPolicy RemoteSigned" followed by "A" (Yes to all)
 
 step7:
 execute "./adober.ps1" in powershell
